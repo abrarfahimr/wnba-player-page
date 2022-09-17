@@ -4,6 +4,8 @@ The basket List
 
 See our MVP here: https://wnba-bucket-list.herokuapp.com/
 
+![alt text]("/thumbnail.png")
+
 ## Description
 
 This project was a 24 hour industry project at BrainStation where we took up a challenge faced by one of the industry partners. Our industry partner was The Women's National Basketball Association and the challenge was "How might the WNBA better leverage its ecosystem to make engagement with the League more accessible than ever before?". This was a cross-functional collaborative project where I teamed up with fellow web developers, data analysts, UX designers, and digital marketers to find a solution to the problem the company was facing.
