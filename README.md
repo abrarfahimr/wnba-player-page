@@ -11,7 +11,7 @@ This project was a 24 hour industry project at BrainStation where we took up a c
 Through thorough research we came up with the solution of redesigning the players page to allow for current and prospective fans to effortlessly find players and create connections using data to drive player recognition. Our strategy was to increase **visibility** and brand **recognition** with the WNBA to increase viewership and engagement. Lean into **creatively showcasing the players** of the WNBA on not only a professional level, but a personal level as well and create an **emotional bond** between the viewer and the WNBA player(s).
 
 ### Dependencies
-React, axios, react-dom, react-router-dom, sass, 
+React, react-dom, react-router-dom, sass, node.js
 
 ### Installing
 * Download the zip file
