@@ -2,7 +2,7 @@
 
 The basket List
 
-See our MVP here: https://wnba-bucket-list.herokuapp.com/
+See our MVP here: https://wnba-player-page.onrender.com/
 
 ![alt text](/thumbnail.png)
 
